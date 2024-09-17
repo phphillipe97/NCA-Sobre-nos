@@ -1,0 +1,40 @@
+h1{
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav{
+    background-color: rgb(203, 231, 231);
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    padding: 0px 500px;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: rgb(0, 0, 0);
+    padding: 14px 20px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: rgb(243, 97, 0);
+}
+img {
+    text-align: center;
+    padding: 0px 630px;
+    text-decoration: none;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
